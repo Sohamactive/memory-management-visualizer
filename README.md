@@ -2,7 +2,7 @@
 
 An interactive educational tool for visualizing memory management concepts including **paging**, **segmentation**, and **page replacement algorithms**. Built with Python and Streamlit for easy use and visual understanding.
 
-## 🎯FeaTures
+## 🎯Features
 
 ### Paging Simulation
 - **Page Table Management**: View and track virtual-to-physical page mappings
